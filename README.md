@@ -1,27 +1,53 @@
-# Quotes
+# Quotes-App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+#### By **KevineUmuhoza**
+## Description
+This is an angular application that helps users to create quotes and have those quotes voted on whether they are terrible or are inspirational.
 
-## Development server
+## How it works
+The application enables a user to:
+* create a quote
+* upvote or downvote a quote
+* delete a quote
+* see the number of upvotes and number of downvotes for each quote
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## project setup instructions
+* cloning the repository 
+* navigating into the cloned folder
+* run ng serve command in the terminal
+* open your browser and paste in the link generated in the terminal http://localhost:4200/
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Deployment Link
 
-## Build
+## Technologies Used
+Poject is created with:
+ . Angular as framework
+ . TypeScript
+ . JavaScript
+ 
+## Support and contact details
+Please contact me on ckevny@gmail.com if you run into any issues or have questions, ideas or concerns while running this application.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### License
+MIT License
 
-## Running unit tests
+Copyright (c) 2021 Kevine Umuhoza
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Running end-to-end tests
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
